@@ -180,8 +180,13 @@
     <string name="settings_lang_change">语言修改会在重启后生效</string>
     <string name="common_txt_restart">重启</string>
     <string name="operation_txt_filetype">请选择文件类型</string>
-    <string name="operation_txt">Test</string>
-    <string name="operation_txt">Test2</string>
+    <string name="notification_btn_turbo">一键加速</string>
+    <string name="notification_btn_clean">一键清理</string>
+    <string name="notification_btn_screenrecord">录屏</string>
+    <string name="notification_screenrecord_stop">点击停止录屏</string>
+    <string name="notification_screenrecord_finish">已完成屏幕视频录制</string>
+    <string name="notification_txt_check">点击查看</string>
+
 
 
 
