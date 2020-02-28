@@ -42,12 +42,12 @@
     <string name="operation_txt_open">打开</string>
     <string name="operation_txt_detail">详情</string>
     <string name="operation_txt_paste">粘贴</string>
-    <string name="operation_txt_detail_1">位置</string>
-    <string name="operation_txt_detail_2">大小</string>
-    <string name="operation_txt_detail_3">时间</string>
-    <string name="operation_txt_detail_4">可读</string>
-    <string name="operation_txt_detail_5">可写</string>
-    <string name="operation_txt_detail_6">隐藏</string>
+    <string name="operation_txt_detail_1">位置:</string>
+    <string name="operation_txt_detail_2">大小:</string>
+    <string name="operation_txt_detail_3">时间:</string>
+    <string name="operation_txt_detail_4">可读:</string>
+    <string name="operation_txt_detail_5">可写:</string>
+    <string name="operation_txt_detail_6">隐藏:</string>
     <string name="operation_txt_detail_yes">是</string>
     <string name="operation_txt_detail_no">否</string>
     <string name="search_txt_prompt">输入关键词搜索</string>
@@ -180,6 +180,7 @@
     <string name="settings_lang_change">语言修改会在重启后生效</string>
     <string name="common_txt_restart">重启</string>
     <string name="operation_txt_filetype">请选择文件类型</string>
+    <string name="operation_txt">Test</string>
 
 
 
